@@ -14,7 +14,7 @@ body {
   width: 100%;
   height: 80px;
   align-items: center;
-  padding-left: 585px;
+  padding-left: 215px;
 }
 
 .logo {
@@ -295,24 +295,23 @@ body {
   background: #ffffff;
   border: 1px solid #eeeeee;
   margin-bottom: 30px;
-
 }
 
-.main-item-img{
+.main-item-img {
   width: 370px;
   height: 294px;
 }
 
-.main-item-name{
+.main-item-name {
   margin: 20px 24px 4px;
   font-weight: bold;
   font-size: 18px;
-  line-height: 2.0;
+  line-height: 2;
   letter-spacing: 0.06em;
   color: #212121;
 }
 
-.main-item-category{
+.main-item-category {
   margin: 4px 24px 20px;
   font-size: 16px;
   line-height: 1.87;
